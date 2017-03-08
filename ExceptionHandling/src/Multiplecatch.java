@@ -9,6 +9,7 @@ public class Multiplecatch {
 		catch (Exception e){System.out.println(e);}
 		
 		System.out.println("rest of the code");
+		//greeting
 		
 		
 
